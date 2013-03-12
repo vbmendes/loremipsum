@@ -27,8 +27,6 @@ egg = {
     'long_description': long_description,
     'classifiers': module.__classifiers__,
     'keywords': ['lorem', 'ipsum', 'text', 'generator'],
-    'setup_requires': ['distribute'],
-    'install_requires': ['distribute'],
     'packages': [name],
     # 'package_dir': {'': '.'},
     # 'package_data': {'': 'default/*.txt'},
